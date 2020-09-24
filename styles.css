@@ -115,8 +115,7 @@ nav li:hover {
 }
 
 #picture {
-	max-width: 90%;
-	max-width: 550px;
+	max-width: 100%;
 }
 
 .pretty-button {
